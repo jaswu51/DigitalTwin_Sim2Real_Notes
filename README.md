@@ -17,3 +17,8 @@ COLMAP and NERF can be used together in a pipeline for generating photorealistic
 ### philosophy question:
 
 What is the point instead of feeding lidar meshes/videos and train it dierectly in the ccmputer vision network, but to represent everything in a virtual world? It makes sense that the collision between objects is important. But if the solo computer vision approach can cover almost every task, what is the point to build a virtual world? Comparing the cost, one hand, it is the cost of building a virtual representation in the simulator and train it in virtual world; on the other hand, it is training from real robots and may hurt the machine and can not generalized well in unseen scenes. Apparently, the former approach is less costly in money, since some algorithms like instant nerf was created. It makes sense.  
+
+### future plan
+* redo the pipeline, may alter the scene and modify the reward function
+* upgrade the task, from route planning to grasping, which requires nerf segmentation
+* try to speed up the nerf process, like real-time nerf, to make it useful in daily life
