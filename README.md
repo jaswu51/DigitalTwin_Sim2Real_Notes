@@ -1,6 +1,6 @@
 
 ### future plan
-* redo the pipeline, may alter the scene and modify the reward function
+* redo the pipeline, may alter the scene and modify the reward function; and instead of using Mujoco, try to use Isaac Sim
 * upgrade the task, from route planning to grasping, which requires **nerf segmentation**
 * try to speed up the nerf process, like **real-time nerf** or **instant nerf**, to make it useful in daily life
 
