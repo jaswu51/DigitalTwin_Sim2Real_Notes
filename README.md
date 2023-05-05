@@ -1,4 +1,3 @@
-# DigitalTwin_StudyNotes
 
 ### future plan
 * redo the pipeline, may alter the scene and modify the reward function
@@ -9,6 +8,7 @@
 Mid August -- report submitting deadline
 Early September -- Master thesis defense
 
+# DigitalTwin_StudyNotes
 
 ### RGBD VS LIDAR
 The functional difference between LiDAR and other forms of ToF is that LiDAR uses pulsed lasers to build a point cloud, which is then used to construct a 3D map or image. ToF applications create "depth maps" based on light detection, usually through a standard RGB camera.
