@@ -5,9 +5,9 @@
 * try to speed up the nerf process, like **real-time nerf** or **instant nerf**, to make it useful in daily life
 
 ### timeline
-Mid August -- report submitting deadline
+mid August -- report submitting deadline
 
-Early September -- Master thesis defense
+early September -- master thesis defense
 
 # DigitalTwin_StudyNotes
 
