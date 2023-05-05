@@ -6,6 +6,8 @@
 * try to speed up the nerf process, like **real-time nerf** or **instant nerf**, to make it useful in daily life
 
 ### timeline
+June -- pipeline running smoothly
+
 mid August -- report submitting deadline
 
 early September -- master thesis defense
