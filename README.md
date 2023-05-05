@@ -6,6 +6,7 @@
 
 ### timeline
 Mid August -- report submitting deadline
+
 Early September -- Master thesis defense
 
 # DigitalTwin_StudyNotes
