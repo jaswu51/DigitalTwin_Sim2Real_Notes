@@ -33,8 +33,8 @@ COLMAP and NERF can be used together in a pipeline for generating photorealistic
 * Create your own folder that containts the video, i.e. jas folder that contains jas.mp4
 * cd jas folder
 * run the following commands:
-
+```
  C:\Users\jasmi\Documents\GitHub\instant-ngp\scripts\colmap2nerf.py  --run_colmap --aabb_scale 64 --overwrite
  python ..\scripts\colmap2nerf.py --video_in jas.mp4 --video_fps 10 --run_colmap --overwrite
- 
+```
 * drag processed jas folder into the instant-ngp.exe from "Nerf_experiments\Instant-NGP-for-RTX-3000-and-4000\Instant-NGP-for-RTX-3000-and-4000\instant-ngp.exe"
