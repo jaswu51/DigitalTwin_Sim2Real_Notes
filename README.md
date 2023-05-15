@@ -57,6 +57,8 @@ Additional camera parameters may be required, such as exposure settings (shutter
 
 These inputs are used during the training phase of the NeRF algorithm to learn a neural network model that can predict the appearance of the scene from any given viewpoint. By training on the dataset of images and corresponding camera poses, NeRF learns to model the scene as a continuous 3D function called a neural radiance field, allowing it to synthesize realistic images from novel viewpoints.
 
+referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.search-card.all.click&vd_source=9def8c0da178e13205a9ab695cc12d7c
+
 # Nerf Experiments
 * Fork https://github.com/NVlabs/instant-ngp
 * Create your own folder that containts the video, i.e. jas folder that contains jas.mp4
