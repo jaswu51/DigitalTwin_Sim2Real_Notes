@@ -18,6 +18,17 @@ early September -- master thesis defense
 The functional difference between LiDAR and other forms of ToF is that LiDAR uses pulsed lasers to build a point cloud, which is then used to construct a 3D map or image. ToF applications create "depth maps" based on light detection, usually through a standard RGB camera.
 
 ### COLMAP and NERF
+
+COLMAP and NeRF are two different approaches used in computer vision and graphics, with different purposes and methodologies. Here's a brief explanation of each:
+
+* COLMAP (Structure from Motion):
+COLMAP is a software package that focuses on structure from motion (SFM) and multi-view stereo (MVS). It is primarily used for 3D reconstruction of scenes or objects from a collection of 2D images. COLMAP utilizes feature extraction, matching, camera pose estimation, and triangulation techniques to generate a 3D model from a set of images. It can be used for applications such as creating 3D models of environments, objects, or even for augmented reality.
+
+* NeRF (Neural Radiance Fields):
+NeRF is a deep learning-based technique used for synthesizing novel views of a scene or object. It models the scene as a continuous 3D function called a neural radiance field. NeRF learns to predict the appearance (color and intensity) of a scene from any given viewpoint by training on a dataset of images with corresponding camera poses. NeRF can generate photo-realistic renderings of scenes, even from viewpoints not present in the original dataset. It is commonly used for applications such as virtual reality, computer graphics, and generating synthetic images.
+
+In summary, COLMAP focuses on reconstructing 3D geometry from images, while NeRF focuses on synthesizing novel views of a scene or object using a neural network-based approach.
+
 COLMAP and NERF can be used together in a pipeline for generating photorealistic 3D reconstructions of scenes from a series of 2D images. Here is an example pipeline:
 
 * Capture a series of 2D images of the scene using a camera or cameras.
