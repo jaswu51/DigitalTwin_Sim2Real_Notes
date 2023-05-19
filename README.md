@@ -59,16 +59,6 @@ These inputs are used during the training phase of the NeRF algorithm to learn a
 
 referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.search-card.all.click&vd_source=9def8c0da178e13205a9ab695cc12d7c
 
-# Nerf Experiments
-* Fork https://github.com/NVlabs/instant-ngp
-* Create your own folder that containts the video, i.e. jas folder that contains jas.mp4
-* cd jas folder
-* run the following commands:
-```
- C:\Users\jasmi\Documents\GitHub\instant-ngp\scripts\colmap2nerf.py  --run_colmap --aabb_scale 64 --overwrite
- python ..\scripts\colmap2nerf.py --video_in jas.mp4 --video_fps 10 --run_colmap --overwrite
-```
-* drag processed jas folder into the instant-ngp.exe from "Nerf_experiments\Instant-NGP-for-RTX-3000-and-4000\Instant-NGP-for-RTX-3000-and-4000\instant-ngp.exe"
 
 # Isaac Sim tutorials
 import URDF
