@@ -69,3 +69,10 @@ referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.sea
  python ..\scripts\colmap2nerf.py --video_in jas.mp4 --video_fps 10 --run_colmap --overwrite
 ```
 * drag processed jas folder into the instant-ngp.exe from "Nerf_experiments\Instant-NGP-for-RTX-3000-and-4000\Instant-NGP-for-RTX-3000-and-4000\instant-ngp.exe"
+
+# Isaac Sim tutorials
+import URDF
+https://www.youtube.com/watch?v=pxPFr58gHmQ
+
+# Robot Library
+https://robodk.com/library
