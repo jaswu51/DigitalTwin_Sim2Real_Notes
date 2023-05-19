@@ -73,3 +73,6 @@ referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.sea
 # Isaac Sim tutorials
 import URDF
 https://www.youtube.com/watch?v=pxPFr58gHmQ
+
+# Robot Library
+https://robodk.com/library
