@@ -66,3 +66,6 @@ https://www.youtube.com/watch?v=pxPFr58gHmQ
 
 # Robot Library
 https://robodk.com/library
+
+# Ros2 tutorial
+https://docs.ros.org/en/eloquent/Tutorials/Writing-A-Simple-Py-Service-And-Client.html#pysrvcli
