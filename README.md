@@ -1,5 +1,6 @@
 
 ### future plan
+* extract the mesh from nerf to blender/mujoco/isaac sim. https://www.youtube.com/watch?v=55XKtYOIB7Y
 * literature review, the state-of-art vision perception and sim2real research, eg. following up ICRA 2023
 * redo the pipeline, may alter the scene and modify the reward function; and instead of using Mujoco, try to use Isaac Sim
 * upgrade the task, from route planning to grasping, which requires **nerf segmentation**
