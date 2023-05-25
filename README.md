@@ -87,3 +87,7 @@ https://robodk.com/library
 
 # Ros2 tutorial
 https://docs.ros.org/en/eloquent/Tutorials/Writing-A-Simple-Py-Service-And-Client.html#pysrvcli
+
+build a robot from urdf and meshes
+
+https://automaticaddison.com/how-to-create-a-simulated-mobile-robot-in-ros-2-using-urdf/
