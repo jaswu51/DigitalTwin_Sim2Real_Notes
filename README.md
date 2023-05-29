@@ -22,6 +22,8 @@ https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 
 omni.isaac.gym （OIG）
 
+https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
+
 https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/tutorial_gym_isaac_gym.html
 
 reference: [zhihu](https://www.zhihu.com/search?type=content&q=omni.isaac.gym)
