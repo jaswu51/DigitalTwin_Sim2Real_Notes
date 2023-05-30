@@ -79,7 +79,10 @@ These inputs are used during the training phase of the NeRF algorithm to learn a
 
 referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.search-card.all.click&vd_source=9def8c0da178e13205a9ab695cc12d7c
 
+### Domain randomization
+Domain randomization is a technique used in robotics and machine learning to improve the robustness and adaptability of robots in real-world environments. It involves systematically randomizing various aspects of the training process, including the simulation environment, object appearances, lighting conditions, physics parameters, and other factors, to create a diverse set of training data.
 
+The goal of domain randomization is to expose the robot to a wide range of possible scenarios during training so that it learns to generalize its behavior and can handle unforeseen situations in the real world. 
 # Isaac Sim tutorials
 import URDF
 https://www.youtube.com/watch?v=pxPFr58gHmQ
