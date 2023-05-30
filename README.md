@@ -83,6 +83,17 @@ referencce: https://www.bilibili.com/video/BV1d34y1n7fn/?spm_id_from=333.337.sea
 Domain randomization is a technique used in robotics and machine learning to improve the robustness and adaptability of robots in real-world environments. It involves systematically randomizing various aspects of the training process, including the simulation environment, object appearances, lighting conditions, physics parameters, and other factors, to create a diverse set of training data.
 
 The goal of domain randomization is to expose the robot to a wide range of possible scenarios during training so that it learns to generalize its behavior and can handle unforeseen situations in the real world. 
+
+### Meta Learning
+Meta-learning, or learning to learn, refers to algorithms that can learn how to quickly adapt and generalize to new tasks or environments. In robotics, meta-learning can be used to enhance the learning capabilities of robots. For example:
+
+A robot could use meta-learning to quickly adapt its grasping strategy to different object shapes and sizes. By training on a variety of objects and learning generalizable grasping policies, the robot can quickly grasp new objects it has never encountered before.
+A robot could use meta-learning to learn how to navigate in different environments. By training on various simulated environments with different layouts, the robot can learn general navigation policies that can be quickly adapted to new real-world environments.
+### Imintation Learning
+Learning from demonstrations, also known as imitation learning, involves learning a policy or behavior by observing expert demonstrations. This approach can be useful when it is challenging or time-consuming to manually engineer a solution. Examples include:
+
+Autonomous driving: Self-driving cars can learn to navigate by observing human drivers. By training on a large dataset of human-driven scenarios, the car can learn to mimic human behavior and make appropriate driving decisions.
+Robot manipulation: Robots can learn complex manipulation tasks by observing and imitating human demonstrations. For example, a robot can learn to assemble objects by watching a human expert perform the task. The robot can then replicate the demonstrated actions to complete the assembly autonomously.
 # Isaac Sim tutorials
 import URDF
 https://www.youtube.com/watch?v=pxPFr58gHmQ
